@@ -4,7 +4,7 @@ A React Native component that extends Flatlist that has Fullscreen Horizontal Sc
 (You can pass normal Flatlist Props [_Read More Here_](https://facebook.github.io/react-native/docs/flatlist.html) )
 
 <p align="center">
-<img src="https://github.com/ahwelgemoed/horizontaltextscroll/blob/master/Horizontal.gif" width="30%">
+<img src="https://media.giphy.com/media/lMySDKdaJHFhcoZ39G/giphy.gif" width="30%">
 </p>
 
 ## Installation
@@ -60,6 +60,11 @@ const styles = StyleSheet.create({
 });
 
 ```
+
+## Props
+
+- _data_ - works as normal Flatlist data Prop
+- _components_ - Function with the Component to Render (Same as renderItem)
 
 ## Contributing
 
