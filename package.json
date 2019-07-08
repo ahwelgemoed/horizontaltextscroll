@@ -1,7 +1,7 @@
 {
   "name": "horizontaltextscroll",
   "version": "1.0.1",
-  "description": "A react native componentThat Extends Flatlist to have Horisontal Scroll between Items and Vertical Scroll View.",
+  "description": "A React Native component that extends Flatlist that has Fullscreen Horizontal Scroll and Vertical scroll on every Item rendered.",
   "main": "index.js",
   "bugs": {
     "url": "https://github.com/ahwelgemoed/horizontaltextscroll/issues"
