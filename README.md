@@ -4,7 +4,7 @@ A React Native component that extends Flatlist that has Fullscreen Horizontal Sc
 (You can pass normal Flatlist Props [_Read More Here_](https://facebook.github.io/react-native/docs/flatlist.html) )
 
 <p align="center">
-<img src="https://github.com/ahwelgemoed/horizontaltextscroll/master/Horizontal-gif.gif" width="640" height="525">
+<img src="https://github.com/ahwelgemoed/horizontaltextscroll/blob/master/Horizontal.gif" width="640" height="525">
 </p>
 
 ## Installation
