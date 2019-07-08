@@ -1,0 +1,25 @@
+{
+  "name": "horizontaltextscroll",
+  "version": "0.0.1",
+  "description": "A react native componentThat Extends Flatlist to have Horisontal Scroll between Items and Vertical Scroll View.",
+  "main": "index.js",
+  "bugs": {
+    "url": "https://github.com/prateek3255/react-native-infinite-looping-scroll/issues"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "peerDependencies": {
+    "react": "^16.0.0-beta.5",
+    "react-native": "^0.49.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/prateek3255/react-native-infinite-looping-scroll.git"
+  },
+  "author": "A.H.Welgemoed",
+  "license": "MIT",
+  "devDependencies": {
+    "metro-react-native-babel-preset": "^0.55.0"
+  }
+}
