@@ -35,7 +35,6 @@ export default class HZScroll extends Component {
               (this.scrollViewHeight = ev.nativeEvent.layout.height)
             }
             pagingEnabled={true}
-            ListHeaderComponent={this._renderHeader}
             data={this.props.data}
             horizontal={true}
             collapsable={false}
@@ -55,10 +54,3 @@ export default class HZScroll extends Component {
     );
   }
 }
-
-let screenWidth = Dimensions.get('window').width;
-const styles = StyleSheet.create({
-  flatview: {
-    width: screenWidth
-  }
-});
